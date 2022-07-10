@@ -1,0 +1,49 @@
+Prato: Sopa de Feijão (2.95€; 160kcal)
+        Cliente: Joao(111111111) -> 1 vezes
+        Cliente: Carlos(222222222) -> 2 vezes
+        Cliente: Paula(555555555) -> 1 vezes
+Prato: Bife à Cortador (14.9€; 800kcal)
+        Cliente: Joao(111111111) -> 1 vezes
+Prato: Açorda de Gambas (15.9€; 600kcal)
+        Cliente: Joao(111111111) -> 1 vezes
+        Cliente: Marta(333333333) -> 2 vezes
+        Cliente: Paula(555555555) -> 1 vezes
+Prato: Bife ao Café (14.9€; 800kcal)
+        Cliente: Paula(555555555) -> 2 vezes
+Prato: Cataplana de Peixes (14.9€; 600kcal)
+        Cliente: Paula(555555555) -> 1 vezes
+Prato: Mista de Porco Preto Grelhado (14.9€; 650kcal)
+        Cliente: Joao(111111111) -> 1 vezes
+        Cliente: Paula(555555555) -> 3 vezes
+Prato: Sopa Creme de Cenoura (2.55€; 80kcal)
+        Cliente: Ricardo(444444444) -> 1 vezes
+        Cliente: Marta(333333333) -> 1 vezes
+        Cliente: Paula(555555555) -> 1 vezes
+Prato: Massada de Tamboril (15.9€; 500kcal)
+        Cliente: Joao(111111111) -> 1 vezes
+        Cliente: Carlos(222222222) -> 1 vezes
+Prato: Bacalhau à Braz (14.9€; 900kcal)
+        Cliente: Marta(333333333) -> 1 vezes
+        Cliente: Paula(555555555) -> 2 vezes
+Prato: Cataplana à Algarvia (14.9€; 700kcal)
+        Cliente: Marta(333333333) -> 1 vezes
+Prato: Sopa Creme de Legumes (2.85€; 70kcal)
+        Cliente: Ricardo(444444444) -> 1 vezes
+        Cliente: Marta(333333333) -> 1 vezes
+        Cliente: Paula(555555555) -> 2 vezes
+Prato: Strogonoff de Novilho (14.9€; 1000kcal)
+        Cliente: Paula(555555555) -> 1 vezes
+Prato: Sopa Caldo Verde (2.85€; 110kcal)
+        Cliente: Ricardo(444444444) -> 1 vezes
+        Cliente: Paula(555555555) -> 2 vezes
+Prato: Sopa Creme de Coentros (2.95€; 120kcal)
+        Cliente: Ricardo(444444444) -> 1 vezes
+        Cliente: Carlos(222222222) -> 1 vezes
+Prato: Sopa de Peixe (3.1€; 90kcal)
+        Cliente: Carlos(222222222) -> 1 vezes
+Prato: Arroz de Polvo (15.5€; 600kcal)
+        Cliente: Ricardo(444444444) -> 2 vezes
+        Cliente: Carlos(222222222) -> 1 vezes
+Prato: Bacalhau à Minhota (16.0€; 650kcal)
+        Cliente: Paula(555555555) -> 1 vezes
+Prato mais consumido: Prato: Sopa de Feijão (2.95€; 160kcal)
